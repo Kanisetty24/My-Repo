@@ -1,0 +1,4 @@
+Cloning a repository is very easy in git.
+
+Just try from your end , you will enjoy it!
+
